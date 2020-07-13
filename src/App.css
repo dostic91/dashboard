@@ -1,0 +1,80 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  min-width: 100vw;
+  padding: 30px;
+}
+
+.Header p {
+  display: block;
+}
+
+.Header h1 {
+  color:white;
+}
+
+.Bottom h2 {
+  color:white;
+}
+
+.Header p {
+  color: silver;
+}
+
+.Bottom {
+  margin-top: 30px;
+}
+
+.BigComp {
+  background-color: #313949;
+  min-height: 200px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.blueClass {
+  border-top: blue 3px solid;
+}
+
+.redClass {
+  border-top: red 3px solid;
+}
+
+.orangeClass {
+  border-top: orange 3px solid;
+}
+
+.greenClass {
+  border-top: green 3px solid;
+}
+
+.SmallComp {
+  background-color: #313949;
+  height: 110px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.login-form {
+  color: white;
+  margin: auto;
+  background-color: #313949;
+  width: 50%;
+  padding: 20px;
+}
+
+.login-form input {
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  border-bottom: silver 1px solid;
+}
+
+
+.login-form input:focus {
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  border-bottom: silver 1px solid;
+}
